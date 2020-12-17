@@ -2,12 +2,14 @@ Prerequisits:
 * Node JS
 * port 5000 to be empty
 * Browser
+In the file named .env in root directory of the file replace `MONGO_URL` with your mongodb server url and port number. So, that the app could communicate with server and write data in it.
+
 To start the application run these 2 commands
 `yarn install`
 `yarn start`
 
-The app is also host on heroku to access it visit: https://codahackerearth.herokuapp.com/
-It's reunning on free dyno. So, it might take upto 15sec for first load. Once, it's loaded it would work without any delay.
+The app is also hosted on heroku to access it visit: https://codahackerearth.herokuapp.com/
+It's running on free dyno. So, it might take upto 15sec for first load. Once, it's loaded it would work without any delay.
 To access source code visit: https://github.com/singhey/coda
 
 Features:
