@@ -1,0 +1,1 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[9],{361:function(t,e,n){"use strict";n.r(e);var p=n(0),a=n.n(p);e.default=function(t){return a.a.createElement("div",null,"Update")}}}]);
